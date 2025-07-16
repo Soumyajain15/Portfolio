@@ -17,7 +17,7 @@ This is my personal portfolio website built using the **MERN Stack** – showcas
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Soumyajain15/portfolio.git
 cd portfolio/client
 npm install
 npm start
